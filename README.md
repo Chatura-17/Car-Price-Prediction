@@ -5,5 +5,5 @@ Key features:
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Model Training (using algorithms such as Linear Regression, Decision Trees, etc.)
+- Model Training (using algorithms such as Linear Regression, Decision Trees, etc)
 - Model Evaluation and Optimization
